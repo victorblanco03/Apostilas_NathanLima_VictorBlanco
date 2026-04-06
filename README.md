@@ -1,2 +1,3 @@
-# Apostilas_NathanLima_VictorBlanco
-Apostilas PBDI 1s 2026
+# Nome completo: Nathan Ferreira Alexandre Lima RA: 2041382511027
+
+Nome completo: Victor Blanco de Andrade RA: 2041382211012
